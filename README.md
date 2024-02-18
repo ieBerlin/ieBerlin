@@ -1,7 +1,7 @@
 <h1 align="center">◢◤</h1>
 <h3 align="center">3rd-year computer science student at FSE SBA.</h3>
 
-- 🌱 I’m currently learning **React.js and Typescript**
+- 🌱 I’m currently learning **React.js
 
 - 💬 Ask me about **Flutter & Node.js**
 
