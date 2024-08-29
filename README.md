@@ -1,5 +1,5 @@
 <h1 align="center">◢◤</h1>
-<h3 align="center">3rd-year computer science student at FSE SBA.</h3>
+<h3 align="center">4rd-year computer science student at FSE SBA.</h3>
 
 - 🌱 I’m currently learning **React.js** and **Typescript**
 
